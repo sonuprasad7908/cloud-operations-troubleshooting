@@ -22,7 +22,7 @@ No company infrastructure, credentials, private IP addresses, internal domains, 
 ## 📚 Planned Guides
 
 - [x] [Troubleshooting Nginx 502 Bad Gateway](nginx/502-bad-gateway.md)
-- [ ] Checking application ports and processes
+- [x] [Checking application ports and processes](linux/application-ports-processes.md)
 - [ ] Debugging Docker container failures
 - [ ] SSL/TLS certificate validation
 - [ ] DNS troubleshooting workflow

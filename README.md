@@ -21,7 +21,7 @@ No company infrastructure, credentials, private IP addresses, internal domains, 
 
 ## 📚 Planned Guides
 
-- [ ] Troubleshooting Nginx 502 Bad Gateway
+- [x] [Troubleshooting Nginx 502 Bad Gateway](nginx/502-bad-gateway.md)
 - [ ] Checking application ports and processes
 - [ ] Debugging Docker container failures
 - [ ] SSL/TLS certificate validation

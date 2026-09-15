@@ -27,4 +27,4 @@ No company infrastructure, credentials, private IP addresses, internal domains, 
 - [x] [SSL/TLS certificate validation](ssl/certificate-troubleshooting.md)
 - [x] [DNS troubleshooting workflow](dns/troubleshooting.md)
 - [x] [Linux disk and memory troubleshooting](linux/disk-memory-troubleshooting.md)
-- [ ] Deployment health-check workflow
+- [x] [Deployment health-check workflow](deployment/health-check-workflow.md)

@@ -25,6 +25,6 @@ No company infrastructure, credentials, private IP addresses, internal domains, 
 - [x] [Checking application ports and processes](linux/application-ports-processes.md)
 - [x] [Debugging Docker container failures](docker/container-troubleshooting.md)
 - [x] [SSL/TLS certificate validation](ssl/certificate-troubleshooting.md)
-- [ ] DNS troubleshooting workflow
+- [x] [DNS troubleshooting workflow](dns/troubleshooting.md)
 - [ ] Linux disk and memory troubleshooting
 - [ ] Deployment health-check workflow

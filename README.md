@@ -24,7 +24,7 @@ No company infrastructure, credentials, private IP addresses, internal domains, 
 - [x] [Troubleshooting Nginx 502 Bad Gateway](nginx/502-bad-gateway.md)
 - [x] [Checking application ports and processes](linux/application-ports-processes.md)
 - [x] [Debugging Docker container failures](docker/container-troubleshooting.md)
-- [ ] SSL/TLS certificate validation
+- [x] [SSL/TLS certificate validation](ssl/certificate-troubleshooting.md)
 - [ ] DNS troubleshooting workflow
 - [ ] Linux disk and memory troubleshooting
 - [ ] Deployment health-check workflow
